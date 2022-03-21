@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\23MartTask\23MartTask\bin\Debug\netcoreapp3.1\23MartTask.exe
+C:\Users\Hp\source\repos\23MartTask\23MartTask\bin\Debug\netcoreapp3.1\23MartTask.deps.json
+C:\Users\Hp\source\repos\23MartTask\23MartTask\bin\Debug\netcoreapp3.1\23MartTask.runtimeconfig.json
+C:\Users\Hp\source\repos\23MartTask\23MartTask\bin\Debug\netcoreapp3.1\23MartTask.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\23MartTask\23MartTask\bin\Debug\netcoreapp3.1\23MartTask.dll
+C:\Users\Hp\source\repos\23MartTask\23MartTask\bin\Debug\netcoreapp3.1\23MartTask.pdb
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.AssemblyInfo.cs
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.dll
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.pdb
+C:\Users\Hp\source\repos\23MartTask\23MartTask\obj\Debug\netcoreapp3.1\23MartTask.genruntimeconfig.cache
