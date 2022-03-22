@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\23MartTask2\\23MartTask2\\23MartTask2.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\23MartTask\\23MartTask2\\23MartTask2\\23MartTask2.csproj",
       "projectName": "23MartTask2",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\23MartTask2\\23MartTask2\\23MartTask2.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\23MartTask\\23MartTask2\\23MartTask2\\23MartTask2.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\23MartTask2\\23MartTask2\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\23MartTask\\23MartTask2\\23MartTask2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

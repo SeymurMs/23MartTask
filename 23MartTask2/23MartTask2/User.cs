@@ -44,9 +44,9 @@ namespace _23MartTask2
         public bool PasswordChecker()
         {
 
-            bool chk1 = true;
-            bool chk2 = true;
-            bool chk3 = true;
+            bool chk1 = false;
+            bool chk2= false;
+            bool chk3= false ;
             if (!string.IsNullOrWhiteSpace(Password))
             {
 
